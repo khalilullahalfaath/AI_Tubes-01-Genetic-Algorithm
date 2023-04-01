@@ -1,5 +1,5 @@
 # tubes01AI
-Ini adalah tugas yang dikerjakan untuk menyelesaikan Tugas Pemrograman 1 Mata Kuliah Pengenalan Kecerdasan Buatan 
+This is a project that is being done to complete The first Programming Assignment for the Introduction to Artificial Intelligence course.
 
-next project: make it more documented
+next project: make it more documented <br>
 Use it as reference and don't forget to give it a star :)
